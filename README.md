@@ -1,2 +1,1 @@
-# Capacitacion_cobol
-Practicas para Cobol
+"# Mi proyecto" 
