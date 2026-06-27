@@ -3,4 +3,6 @@ Prueba Diff
 Hola mundo
 Comparar
 Cambio en Main
-
+=============================
+Cambio en la rama Comparar
+=============================
